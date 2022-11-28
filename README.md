@@ -1,4 +1,4 @@
-  # Instrucciones para instalar PTM + SDK
+  # Instrucciones para instalar SARA + SDK
 
   1. Acceder a la carpeta remota "Publico"
       - Presione las taclas Win + R y escribir: \\\192.168.0.11
