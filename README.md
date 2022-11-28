@@ -1,9 +1,9 @@
   # Instrucciones para instalar PTM + SDK
 
   1. Acceder a la carpeta remota "Publico"
-    - Presione las taclas Win + R y escribir: \\\192.168.0.11
-    - Abrir la carpeta Publico
-    - Abrir la carpeta PTM
+      - Presione las taclas Win + R y escribir: \\\192.168.0.11
+      - Abrir la carpeta Publico
+      - Abrir la carpeta PTM
   --- 
   2. Instalar PTM
     - Dentro de la carpeta PTM, buscar el archivo "setup" y ejecutar como administrador para instalarlo. (Luego de instalar el programa saldrá un error, es normal, cerrar el programa)
